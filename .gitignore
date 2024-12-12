@@ -1,0 +1,11 @@
+# Ignore sensitive files
+.env
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore cache and session data
+cache/
+sessions/
+
