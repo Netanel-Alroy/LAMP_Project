@@ -9,3 +9,5 @@
 cache/
 sessions/
 
+# Ignore vendor directory (Composer dependencies)
+vendor/
