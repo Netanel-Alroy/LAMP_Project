@@ -8,8 +8,6 @@ It utilizes the LAMP stack. It features:
 - **Frontend**: Served via Apache.
 - **Database**: Powered by MariaDB.
 
-+-------------+ +------------+ +-------------+ +-------------+ | Internet |------->| Apache |------->| App |------->| MariaDB | | |Port 443| | | Page | | | +-------------+ +------------+ +-------------+ +-------------+ | | | Frontend Network Backend Network Backend Network (frontend) (backend) (backend)
-
 ![App screenshot](https://github.com/user-attachments/assets/18d2001a-70e5-49fe-a0e8-1a5468e9e3c9)
 
 ### The Project Includes:
