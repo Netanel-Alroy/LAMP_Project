@@ -22,6 +22,6 @@ It utilizes the LAMP stack. It features:
 
 ### Project architecture:
 
-![App_Architecture](https://github.com/user-attachments/assets/23cf7a1d-8a56-454c-992d-8bbaff0eb374)
+![App_Architecture](https://github.com/user-attachments/assets/d1579337-57cf-4ab5-aa42-461640491559)
 
 
