@@ -17,16 +17,16 @@ It utilizes the LAMP stack, featuring:
 
 - **DNS Management**: Configured using **Amazon Route 53**.
 - **SSL/TLS Security**: Managed through **AWS Certificate Manager**.
-- **Traffic Load Balancing**: Handled by an **Application Load Balancer (ALB)**.
+- **Traffic Load Balancing**: Handled by an **Application Load Balancer**.
 - **EC2 Instances**:
   - **Primary Instance**: Deployed in **AZ1**.
-  - **Additional Instance**: Based on a **custom AMI** in **AZ2**.
+  - **Additional Instance**: Primary AMI's instance deployed in **AZ2**.
 - **Database**:
-  - **Primary MariaDB**: Located in **AZ1**.
+  - **Primary MariaDB**: Deployed in **AZ1**.
   - **Read Replica**: Deployed in **AZ2** for high availability.
 
 ---
 
 ## **Project Architecture**
 
-![App Architecture](https://github.com/user-attachments/assets/d1579337-57cf-4ab5-aa42-461640491559)
+![App_Architecture](https://github.com/user-attachments/assets/1be9c7d6-1f23-42f3-94d9-8dcbe549ba95)
